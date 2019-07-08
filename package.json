@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/chumpon-asaneerat/node-pouchdb-sample#readme",
   "dependencies": {
-    "pouchdb": "^7.1.1"
+    "pouchdb": "^7.1.1",
+    "pouchdb-adapter-node-websql": "^7.0.0",
+    "websql": "^1.0.0"
   }
 }
