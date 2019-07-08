@@ -1,0 +1,22 @@
+{
+  "name": "node-pouchdb-sample",
+  "version": "1.0.0",
+  "description": "The node pouchdb sample project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumpon-asaneerat/node-pouchdb-sample.git"
+  },
+  "author": "Chumpon Asaneerat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chumpon-asaneerat/node-pouchdb-sample/issues"
+  },
+  "homepage": "https://github.com/chumpon-asaneerat/node-pouchdb-sample#readme",
+  "dependencies": {
+    "pouchdb": "^7.1.1"
+  }
+}

@@ -1,2 +1,2 @@
-# github-empty-project
-The github empty tempate
+# node-pouchdb-sample
+The node pouchdb sample project.
